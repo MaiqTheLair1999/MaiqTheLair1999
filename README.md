@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## My name is ✨Chingiz✨
-## - 🌱 I’m currently learning programming in C/C++, ASM
+# 🌱 I’m currently learning programming in C/C++, ASM
 <!--
 **MaiqTheLair1999/MaiqTheLair1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
